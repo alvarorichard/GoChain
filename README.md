@@ -32,9 +32,11 @@ Install the necessary dependencies
 
 ```go
 go get github.com/davecgh/go-spew/spew
-
+```
+```go
 go get github.com/gorilla/mux
-
+```
+```go
 go get github.com/joho/godotenv
 ```
 
